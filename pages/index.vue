@@ -2,7 +2,7 @@
   <div class="flex items-center h-screen w-screen">
     <div class="text-center min-w-full">
       <h1 class="text-6xl">
-        🥳 A
+        🥳
       </h1>
       <br>
       <h2 class="text-3xl font-semibold">
